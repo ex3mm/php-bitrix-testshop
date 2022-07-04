@@ -1,0 +1,5 @@
+<?
+$arTemplate = Array(
+    "NAME"          => "myStore",
+);
+?>
